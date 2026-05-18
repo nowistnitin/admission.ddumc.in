@@ -1,0 +1,660 @@
+Uri: https://admission.ddumc.in/
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\index.htm
+Content Type: text/html
+
+Uri: https://admission.ddumc.in/img/meritto-logo.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\img\meritto-logo.png
+Content Type: image/png
+
+Uri: https://admission.ddumc.in/js/college/bootstrap-datepicker.js?1699963084
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\college\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://admission.ddumc.in/js/college/bootstrap-datetimepicker.min.js?1699963084
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\college\bootstrap-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://admission.ddumc.in/js/college/moment.js?1699963084
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\college\moment.js
+Content Type: application/javascript
+
+Uri: https://admission.ddumc.in/manifest.json
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\manifest.json
+Content Type: application/json
+
+Uri: https://cdn.npfs.co/css/college/bootstrap-datepicker.css?1760349536
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\css\college\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/css/college/bootstrap-datetimepicker.css?1760349536
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\css\college\bootstrap-datetimepicker.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/css/college/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\css\college\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://cdn.npfs.co/css/custom.css?1699963084
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\css\custom.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/css/form.css?1752460505
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\css\form.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/img/loader_small.gif
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\img\loader_small.gif
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/img/npf-sprite.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\img\npf-sprite.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/img/widget/sprite.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\img\widget\sprite.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/js/ajax_request.js?1774877457
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\ajax_request.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/anonymous_user.js?1776941588
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\anonymous_user.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/jsencrypt.min.js?1774877457
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\jsencrypt.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/lib/cryptojs.min.js?1699963084
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\lib\cryptojs.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/lib/json.js?1774877457
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\lib\json.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/mobile_otp.js?1770637801
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\mobile_otp.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/students/create_password.js?1770637801
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\students\create_password.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/js/theme.js?1774877457
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\js\theme.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/college/image/640b053c0efd2864935534_6401cfeeadf84901183160_logoelementsall01.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\college\image\640b053c0efd2864935534_6401cfeeadf84901183160_logoelementsall01.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/animate.css?1710846599
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\animate.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/bootstrap.css?1715684670
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/custom.css?1710923878
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\custom.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/ddumc-custom.css?1710846717
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\ddumc-custom.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/fadeAnimation.css?1710846627
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\fadeAnimation.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/font-awesome.css?1711627203
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/Form_style.css?1778241400
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\Form_style.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/jquery.bxslider.css?1710846483
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/liMarquee.css?1710846617
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\liMarquee.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/magnific-popup.css?1710846638
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/owl.carousel.min.css?1715685185
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/owl.theme.css?1710846505
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/responsive.css?1715685408
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\responsive.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/style.css?1715685580
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\style.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/css/viewer.css?1710846544
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\css\viewer.css
+Content Type: text/css
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic-Bold.eot
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic-Bold.svg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic-Bold.ttf
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic-Bold.woff
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic-Bold.woff2
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic-Bold.woff2
+Content Type: 
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic-Boldd41d.eot?
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic-Boldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic.eot
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic.svg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic.ttf
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic.woff
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothic.woff2
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothic.woff2
+Content Type: 
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/CenturyGothicd41d.eot?
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\CenturyGothicd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/icomoon.eot?bi9s3p
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/icomoon.svg?bi9s3p
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/icomoon.ttf?bi9s3p
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\icomoon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/fonts/icomoon.woff?bi9s3p
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/111.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\111.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/112.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\112.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/113.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\113.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/114.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\114.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/aboutcontent-bg.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\aboutcontent-bg.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/award-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\award-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/award-right.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\award-right.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/banner-transparent-bg.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\banner-transparent-bg.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/banner12.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\banner12.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/bottom-icin.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\bottom-icin.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/box-after.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\box-after.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/coleges-bg.jpeg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\coleges-bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/coleges-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\coleges-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/college-2.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\college-2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/culture-banner.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\culture-banner.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/down-arow.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\down-arow.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/drop-icon.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\drop-icon.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/element-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\element-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/enquirieimg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\enquirieimg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/errow.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\errow.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/exellence-blue-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\exellence-blue-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/exellence-yello-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\exellence-yello-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/facilities-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\facilities-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/finder-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\finder-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/footer-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\footer-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/form-top-blue.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\form-top-blue.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/form-top-blue2.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\form-top-blue2.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/form-top.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\form-top.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/gallery-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\gallery-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/heading-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\heading-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/heading-border.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\heading-border.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/image-bg.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\image-bg.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/key_highlihts.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\key_highlihts.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/laboratory_bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\laboratory_bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/left-arow.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\left-arow.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/left-arrow-blue.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\left-arrow-blue.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo01.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo01.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo02.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo02.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo03.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo03.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo04.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo04.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo05.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo05.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo06.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo06.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/logo08.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\logo08.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/managing-director-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\managing-director-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/message-bg.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\message-bg.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/message_corner_left.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\message_corner_left.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/message_corner_right.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\message_corner_right.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/minus.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\minus.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/mouse-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\mouse-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/mouse-bg.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\mouse-bg.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/ourrecuiter-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\ourrecuiter-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/our_logo.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\our_logo.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/pattern06.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\pattern06.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/Place_1.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\Place_1.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/Place_2.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\Place_2.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/Place_3.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\Place_3.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/Place_4.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\Place_4.png
+Content Type: image/png
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/plus.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\plus.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/rcuiter-btn-left.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\rcuiter-btn-left.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/rcuiter-btn-right.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\rcuiter-btn-right.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/recuirement-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\recuirement-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/reqiterbg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\reqiterbg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/right-arow.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\right-arow.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/right-arrow-blue.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\right-arrow-blue.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/search-icon.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\search-icon.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/story-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\story-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/story-button-active.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\story-button-active.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/story-button.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\story-button.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/testimonial-button-active.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\testimonial-button-active.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/testimonial-button.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\testimonial-button.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/top-icon.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\top-icon.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/vajra-video-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\vajra-video-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/video-bg.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\video-bg.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/videobg2.jpg
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\videobg2.jpg
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/images/yellow-arow-hover.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\images\yellow-arow-hover.png
+Content Type: image/gif
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/animate-content.js?1710846346
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\animate-content.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/animations.js?1710846346
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\animations.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/aos.js?1710846435
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\aos.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/bootstrap.js?1710846328
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/common.js?1710923989
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\common.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/jquery.bxslider.min.js?1710846291
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/jquery.counterup.min.js?1710846402
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/jquery.liMarquee.js?1710846369
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\jquery.liMarquee.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/jquery.magnific-popup.js?1710846423
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/jquery.min.js?1710846256
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/jquery.sumoselect.min.js?1737459597
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\jquery.sumoselect.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/main.js?1710846291
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\main.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/owl.carousel.js?1710846328
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/script.js?1710923821
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\script.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/viewer.js?1710846291
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\viewer.js
+Content Type: application/javascript
+
+Uri: https://cdn.npfs.co/uploads/template/677/5698/publish/js/waypoints.min.js?1710846412
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\uploads\template\677\5698\publish\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/4/1/hansshake.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\4\1\hansshake.png
+Content Type: image/png
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/4/1/pran.png
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\4\1\pran.png
+Content Type: image/png
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/5/1/fill-application-form-online.jpg?1714647919
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\5\1\fill-application-form-online.jpg
+Content Type: image/jpeg
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/5/1/pay-application-fee.jpg?1714647919
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\5\1\pay-application-fee.jpg
+Content Type: image/jpeg
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/5/1/register-yourself.jpg?1714647919
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\5\1\register-yourself.jpg
+Content Type: image/jpeg
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/5/1/submit-application-form.jpg?1714647919
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\5\1\submit-application-form.jpg
+Content Type: image/jpeg
+
+Uri: https://static.npfs.co/accounts/677/documents/2024/5/1/verify-email.jpg?1714647919
+File Name: C:\Downloaded Web Sites\admission.ddumc.in\accounts\677\documents\2024\5\1\verify-email.jpg
+Content Type: image/jpeg
+
