@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Key Highlights</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:none;text-size-adjust:none;-webkit-font-smoothing:antialiased}
+:root{
+  --kh2-red:#C0392B;
+  --kh2-red-lt:rgba(192,57,43,0.08);
+  --kh2-red-glow:rgba(192,57,43,0.22);
+  --kh2-ink:#111418;
+  --kh2-muted:#6b7280;
+  --kh2-bg:#f9f8f6;
+  --kh2-surface:#ffffff;
+  --kh2-border:rgba(0,0,0,0.07);
+  --kh2-radius-sm:10px;
+  --kh2-radius-md:16px;
+  --kh2-radius-lg:22px;
+  --text-xs:clamp(0.75rem,0.7rem + 0.25vw,0.875rem);
+  --text-sm:clamp(0.8125rem,0.75rem + 0.3vw,0.9375rem);
+  --text-2xl:clamp(1.75rem,1rem + 2.5vw,3.25rem);
+  font-family:'Plus Jakarta Sans',sans-serif
+}
+body{background:var(--kh2-bg);color:var(--kh2-ink);line-height:1.6}
+.kh2-section{padding:clamp(2.5rem,7vw,4rem) clamp(1rem,4vw,2rem);position:relative;overflow:hidden}
+.kh2-section::before{content:'';position:absolute;top:-160px;right:-160px;width:520px;height:520px;border-radius:50%;background:radial-gradient(circle,rgba(192,57,43,0.07) 0%,transparent 70%);pointer-events:none}
+.kh2-section::after{content:'';position:absolute;bottom:-120px;left:-120px;width:400px;height:400px;border-radius:50%;background:radial-gradient(circle,rgba(192,57,43,0.05) 0%,transparent 70%);pointer-events:none}
+.kh2-inner{max-width:1120px;margin:0 auto;position:relative;z-index:1}
+.kh2-head{display:grid;grid-template-columns:1fr;gap:1rem;margin-bottom:clamp(2rem,5vw,3rem)}
+@media(min-width:640px){.kh2-head{grid-template-columns:1fr auto;align-items:flex-end;gap:2rem}}
+.kh2-pill{display:inline-flex;align-items:center;gap:7px;background:var(--kh2-red-lt);border:1px solid rgba(192,57,43,0.2);border-radius:40px;padding:5px 14px 5px 9px;font-size:var(--text-xs);font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--kh2-red);margin-bottom:0.75rem}
+.kh2-pill-dot{width:7px;height:7px;border-radius:50%;background:var(--kh2-red);flex-shrink:0;animation:kh2-pulse 2s ease-in-out infinite}
+@keyframes kh2-pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.5;transform:scale(0.7)}}
+.kh2-heading{font-family:'Cormorant Garamond',serif;font-size:var(--text-2xl);font-weight:700;line-height:1.1;color:var(--kh2-ink);letter-spacing:-0.01em}
+.kh2-heading em{font-style:italic;color:var(--kh2-red)}
+.kh2-head-right{font-size:var(--text-sm);color:var(--kh2-muted);line-height:1.7;max-width:280px}
+@media(max-width:639px){.kh2-head-right{max-width:100%}}
+.kh2-stats{display:grid;grid-template-columns:repeat(3,1fr);background:var(--kh2-surface);border:1px solid var(--kh2-border);border-radius:var(--kh2-radius-lg);overflow:hidden;box-shadow:0 2px 24px rgba(0,0,0,0.05);margin-bottom:clamp(2rem,4vw,3rem)}
+@media(max-width:479px){.kh2-stats{grid-template-columns:1fr;border-radius:var(--kh2-radius-md)}.kh2-stat{border-right:none!important;border-bottom:1px solid var(--kh2-border)}.kh2-stat:last-child{border-bottom:none}}
+.kh2-stat{padding:clamp(1rem,3vw,1.5rem) clamp(0.75rem,2.5vw,1.5rem);display:flex;align-items:center;gap:clamp(0.5rem,2vw,1rem);border-right:1px solid var(--kh2-border);transition:background 0.2s}
+.kh2-stat:last-child{border-right:none}
+.kh2-stat:hover{background:#fdf5f4}
+.kh2-stat-icon{width:clamp(34px,5vw,46px);height:clamp(34px,5vw,46px);min-width:clamp(34px,5vw,46px);border-radius:var(--kh2-radius-sm);background:var(--kh2-red-lt);display:flex;align-items:center;justify-content:center}
+.kh2-stat-icon i{font-size:clamp(15px,2.5vw,20px);color:var(--kh2-red)}
+.kh2-stat-val{font-family:'Cormorant Garamond',serif;font-size:clamp(1.1rem,3vw,1.75rem);font-weight:700;color:var(--kh2-ink);line-height:1}
+.kh2-stat-lbl{font-size:var(--text-xs);color:var(--kh2-muted);margin-top:3px;font-weight:500}
+.kh2-grid{display:grid;gap:clamp(8px,1.5vw,10px);grid-template-columns:1fr;list-style:none}
+@media(min-width:380px){.kh2-grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:640px){.kh2-grid{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:1024px){.kh2-grid{grid-template-columns:repeat(4,1fr)}}
+.kh2-card{background:var(--kh2-surface);border:1px solid var(--kh2-border);border-radius:var(--kh2-radius-sm);padding:clamp(0.75rem,2.5vw,1rem) clamp(0.75rem,2vw,1rem);display:flex;align-items:center;gap:clamp(0.5rem,2vw,0.75rem);cursor:default;position:relative;overflow:hidden;min-height:54px;transition:transform 0.24s cubic-bezier(.22,.68,0,1.2),box-shadow 0.24s ease,border-color 0.2s ease}
+.kh2-card::before{content:'';position:absolute;inset:0;background:linear-gradient(120deg,rgba(192,57,43,0.04) 0%,transparent 70%);opacity:0;transition:opacity 0.24s ease}
+@media(hover:hover){
+  .kh2-card:hover{transform:translateY(-3px);box-shadow:0 8px 28px rgba(0,0,0,0.09),0 2px 6px rgba(0,0,0,0.04);border-color:rgba(192,57,43,0.22)}
+  .kh2-card:hover::before{opacity:1}
+  .kh2-card:hover .kh2-card-num{color:rgba(192,57,43,0.18)}
+  .kh2-card:hover .kh2-card-icon{background:var(--kh2-red);box-shadow:0 4px 14px var(--kh2-red-glow);transform:scale(1.08)}
+  .kh2-card:hover .kh2-card-icon i{color:#fff}
+}
+.kh2-card:active{transform:scale(0.98);border-color:rgba(192,57,43,0.22);background:#fdf5f4}
+.kh2-card-num{position:absolute;top:7px;right:9px;font-family:'Cormorant Garamond',serif;font-size:11px;font-weight:700;color:rgba(0,0,0,0.07);letter-spacing:0.04em;transition:color 0.2s;line-height:1}
+.kh2-card-icon{width:clamp(30px,5vw,36px);height:clamp(30px,5vw,36px);min-width:clamp(30px,5vw,36px);border-radius:9px;background:var(--kh2-red-lt);display:flex;align-items:center;justify-content:center;transition:background 0.2s,box-shadow 0.2s,transform 0.2s}
+.kh2-card-icon i{font-size:clamp(14px,2.5vw,17px);color:var(--kh2-red);transition:color 0.2s}
+.kh2-card-label{font-size:var(--text-sm);font-weight:600;color:var(--kh2-ink);line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+</style>
+</head>
+<body>
+<section class="kh2-section" aria-labelledby="kh2-title">
+  <div class="kh2-inner">
+    <div class="kh2-head">
+      <div>
+        <div class="kh2-pill"><span class="kh2-pill-dot"></span>What Sets Us Apart</div>
+        <h2 class="kh2-heading" id="kh2-title">Built for <em>Excellence.</em><br>Designed for Growth.</h2>
+      </div>
+      <p class="kh2-head-right">Every aspect of our institution is crafted to deliver a world-class experience — from infrastructure to mentorship, we leave nothing to chance.</p>
+    </div>
+    <div class="kh2-stats">
+      <div class="kh2-stat"><div class="kh2-stat-icon"><i class="ri-graduation-cap-line"></i></div><div><div class="kh2-stat-val">10K+</div><div class="kh2-stat-lbl">Alumni Network</div></div></div>
+      <div class="kh2-stat"><div class="kh2-stat-icon"><i class="ri-briefcase-2-line"></i></div><div><div class="kh2-stat-val">98%</div><div class="kh2-stat-lbl">Placement Rate</div></div></div>
+      <div class="kh2-stat"><div class="kh2-stat-icon"><i class="ri-building-4-line"></i></div><div><div class="kh2-stat-val">150+</div><div class="kh2-stat-lbl">Corporate Partners</div></div></div>
+    </div>
+    <ul class="kh2-grid">
+      <li class="kh2-card"><span class="kh2-card-num">01</span><div class="kh2-card-icon"><i class="ri-graduation-cap-line"></i></div><span class="kh2-card-label">10K+ Alumni Network</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">02</span><div class="kh2-card-icon"><i class="ri-discuss-line"></i></div><span class="kh2-card-label">Debates and Seminars</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">03</span><div class="kh2-card-icon"><i class="ri-home-office-line"></i></div><span class="kh2-card-label">AC Class Rooms</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">04</span><div class="kh2-card-icon"><i class="ri-tools-line"></i></div><span class="kh2-card-label">Workshops</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">05</span><div class="kh2-card-icon"><i class="ri-mental-health-line"></i></div><span class="kh2-card-label">PD and Grooming Sessions</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">06</span><div class="kh2-card-icon"><i class="ri-gamepad-line"></i></div><span class="kh2-card-label">Recreational Sessions</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">07</span><div class="kh2-card-icon"><i class="ri-microscope-line"></i></div><span class="kh2-card-label">NET Qualified &amp; Doctoral Faculties</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">08</span><div class="kh2-card-icon"><i class="ri-medal-line"></i></div><span class="kh2-card-label">Value Addition Certification</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">09</span><div class="kh2-card-icon"><i class="ri-briefcase-2-line"></i></div><span class="kh2-card-label">Best Placements</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">10</span><div class="kh2-card-icon"><i class="ri-projector-2-line"></i></div><span class="kh2-card-label">ICT Enabled Class Rooms</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">11</span><div class="kh2-card-icon"><i class="ri-building-4-line"></i></div><span class="kh2-card-label">Corporate Sessions</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">12</span><div class="kh2-card-icon"><i class="ri-wifi-line"></i></div><span class="kh2-card-label">Wi-fi Campus</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">13</span><div class="kh2-card-icon"><i class="ri-factory-line"></i></div><span class="kh2-card-label">Industrial Exposure</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">14</span><div class="kh2-card-icon"><i class="ri-roadmap-line"></i></div><span class="kh2-card-label">Career Counselling and Mentorship</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">15</span><div class="kh2-card-icon"><i class="ri-map-pin-2-line"></i></div><span class="kh2-card-label">Centrally Located &amp; Secure Campus</span></li>
+      <li class="kh2-card"><span class="kh2-card-num">16</span><div class="kh2-card-icon"><i class="ri-flight-takeoff-line"></i></div><span class="kh2-card-label">Corporate Visits</span></li>
+    </ul>
+  </div>
+</section>
+</body>
+</html>
